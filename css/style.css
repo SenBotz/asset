@@ -10755,15 +10755,16 @@ code {
   background: linear-gradient(to right, #ffbf96, #fe7096) !important; }
   
 .ngentod-biru {
-  background: -webkit-gradient(linear, left top, right top, from(#90caf9), color-stop(99%, #047edf)) !important;
-  background: linear-gradient(to right, #90fcad, #047edf 99%) !important; }
-  
-.ngentod-ijo {
-  background: linear-gradient(89deg, #66885e, #277512) !important; }
+  background: -webkit-gradient(linear, left top, right top, from(#90caf9), to(#047edf)) !important;
+  background: linear-gradient(to right, #90caf9, #047edf) !important; }
 
+.ngentod-ijo {
+  background: -webkit-gradient(linear, left top, right top, from(#80e88c), to(#1be333)) !important;
+  background: linear-gradient(to right, #80e88c, #1be333) !important; }
+ 
 .ngentod-oyen {
-  background: -webkit-gradient(linear, left top, right top, from(#ffd796), color-stop(99%, #ffac69)) !important;
-  background: linear-gradient(to right, #ffd796, #ffac69 99%) !important; }
+  background: -webkit-gradient(linear, left top, right top, from(#ffd796), to(#ffac69)) !important;
+  background: linear-gradient(to right, #ffd796, #ffac69) !important; }
   
 /* Demo Styles */
 .template-demo .slider-wrap {
