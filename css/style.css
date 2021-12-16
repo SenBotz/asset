@@ -10756,10 +10756,10 @@ code {
   
 .ngentod-biru {
   background: -webkit-gradient(linear, left top, right top, from(#90caf9), color-stop(99%, #047edf)) !important;
-  background: linear-gradient(to right, #90caf9, #047edf 99%) !important; }
+  background: linear-gradient(to right, #90fcad, #047edf 99%) !important; }
   
 .ngentod-ijo {
-  background: linear-gradient(89deg, #66885e, #08ff4a) !important; }
+  background: linear-gradient(89deg, #66885e, #277512) !important; }
 
 .ngentod-oyen {
   background: -webkit-gradient(linear, left top, right top, from(#ffd796), color-stop(99%, #ffac69)) !important;
